@@ -1,0 +1,1 @@
+print("India",43,True,sep='/')
